@@ -1,9 +1,6 @@
 # Digtal Signal Processing Lab Assignments
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/rajdeep13-coder/5th-Sem-DSP-Lab-assignments)
-[![Star on GitHub](https://img.shields.io/badge/GitHub-Star-ffd700?style=for-the-badge&logo=github)](https://github.com/rajdeep13-coder/5th-Sem-DSP-Lab-assignments)
-[![Fork on GitHub](https://img.shields.io/badge/GitHub-Fork-2ea44f?style=for-the-badge&logo=github)](https://github.com/rajdeep13-coder/5th-Sem-DSP-Lab-assignments)
-[![Status Active](https://img.shields.io/badge/GitHub-Status%20Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/rajdeep13-coder/5th-Sem-DSP-Lab-assignments)
+[![rajdeep13-coder/DSP-Lab-assignments Git Commit History GitStock K-Line Chart](https://gitstock.org/rajdeep13-coder/DSP-Lab-assignments/stock.svg)](https://gitstock.org/rajdeep13-coder/DSP-Lab-assignments)
 
 This repository contains Digital Signal Processing lab practice and assignment scripts written in Octave/MATLAB.
 
